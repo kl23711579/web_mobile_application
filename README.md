@@ -2,7 +2,7 @@
 
 Stock application, there are two different versions which are web and mobile.
 
-> the server is down, so it cannot work
+> the server is down, so it might not work properly.
 
 # Desktop
 
@@ -30,4 +30,4 @@ The web application is made with React.
 
 # Mobile
 
-The web application is made with React Native and expo-cli.
+The mobile application is made with React Native and expo-cli.
